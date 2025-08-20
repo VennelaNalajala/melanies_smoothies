@@ -1,3 +1,4 @@
 #requirements.py
-Snowflake-Snowpark-Python-pandas
+Snowflake-Snowpark-Python
 streamlit
+pandas
